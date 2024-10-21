@@ -1,3 +1,3 @@
 # sankhya_treinamento_robot_framework
 
-Meu primeiro comit
+Meu primeiro comit de treinamento
